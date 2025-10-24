@@ -17,6 +17,7 @@ public class Main {
             if (player == random) {
                 System.out.println("You win!");
                 System.out.println("Angkanya adalah " + random);
+
                 break;
             } else {
                 System.out.println("You lose!");
